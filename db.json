@@ -25,9 +25,22 @@
       "quantityComments": 98
     }
   ],
-  "subscribers": [
-    { "id": 1, "name": "Donna Harvey" },
-    { "id": 2, "name": "Angela Johnson" },
-    { "id": 3, "name": "Ronald Sherman" }
+  "users": [
+    { "id": 1, "name": "Donna Harvey",
+      "post": [
+        {"id": 1},
+        {"id": 2}
+      ]
+    },
+    { "id": 2, "name": "Angela Johnson",
+      "post": [
+        {"id": 3}
+      ]
+    },
+    { "id": 3, "name": "Ronald Sherman",
+      "post": [
+        {"id": 4}
+      ]
+    }
   ]
 }

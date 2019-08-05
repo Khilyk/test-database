@@ -4,6 +4,7 @@
       "title": "Apple Should Bring Back the Clickwheel iPod",
       "message": "The future is foldable, if smartphone makers are to be believed. At Mobile World Congress in February, Samsung announced that it would release a futuristic folding phone at the end of April for an eye-popping $1,980",
       "quantityComments": 456,
+      "subscription": "Donna Harvey",
       "comments": [
         { "id": 1, "message": "I think writers should work for readers instead of advertisers, so I’m voting with my credit card. I happily pay for products I love. Writing is no exception." },
         { "id": 2, "message": "I think writers should work for readers instead of advertisers, so I’m voting with my credit card. I happily pay for products I love. Writing is no exception."}
@@ -12,35 +13,37 @@
     { "id": 2,
       "title": "Why People Buy $30 Power Cords Against All Reason",
       "message": "Maybe you’ve heard of Occam’s Razor? It’s the logical principle that holds that the simplest answer to a question is usually the correct one. And the simplest answer, according to Occam’s Razor, is the one that requires the fewest.",
-      "quantityComments": 2455
+      "quantityComments": 2455,
+      "subscription": "Donna Harvey",
+      "comments": [
+        { "id": 1, "message": "I think writers should work for readers instead of advertisers, so I’m voting with my credit card. I happily pay for products I love. Writing is no exception." },
+        { "id": 2, "message": "I think writers should work for readers instead of advertisers, so I’m voting with my credit card. I happily pay for products I love. Writing is no exception."}
+      ]
     },
     { "id": 3,
       "title": "Your iPhone Has a Hidden List of Every Location You’ve Been",
       "message": "Before I get into some vague yet persistent observations on what I’m identifying as the “aesthetic of relevancy,” allow me to define some perspective boundaries: These aren’t hard truths, but trends I’ve observed while working.",
-      "quantityComments": 144
+      "quantityComments": 144,
+      "subscription": "Ronald Sherman",
+      "comments": [
+        { "id": 1, "message": "I think writers should work for readers instead of advertisers, so I’m voting with my credit card. I happily pay for products I love. Writing is no exception." },
+        { "id": 2, "message": "I think writers should work for readers instead of advertisers, so I’m voting with my credit card. I happily pay for products I love. Writing is no exception."}
+      ]
     },
     { "id": 4,
       "title": "How Brands Exploit the “Aesthetic of Relevancy",
       "message": "Though it may still sound like science fiction, over the past 15 years, robotic-assisted surgeries have become practically commonplace. The vast majority of these operations are performed by the da Vinci surgical system, a four-armed.",
-      "quantityComments": 98
+      "quantityComments": 98,
+      "subscription": "Angela Johnson",
+      "comments": [
+        { "id": 1, "message": "I think writers should work for readers instead of advertisers, so I’m voting with my credit card. I happily pay for products I love. Writing is no exception." },
+        { "id": 2, "message": "I think writers should work for readers instead of advertisers, so I’m voting with my credit card. I happily pay for products I love. Writing is no exception."}
+      ]
     }
   ],
   "users": [
-    { "id": 1, "name": "Donna Harvey",
-      "post": [
-        {"id": 1},
-        {"id": 2}
-      ]
-    },
-    { "id": 2, "name": "Angela Johnson",
-      "post": [
-        {"id": 3}
-      ]
-    },
-    { "id": 3, "name": "Ronald Sherman",
-      "post": [
-        {"id": 4}
-      ]
-    }
+    { "id": 1, "name": "Donna Harvey"},
+    { "id": 2, "name": "Angela Johnson"},
+    { "id": 3, "name": "Ronald Sherman"}
   ]
 }

@@ -42,8 +42,8 @@
     }
   ],
   "users": [
-    {"id": 1, "name": "Donna Harvey"},
-    {"id": 2, "name": "Angela Johnson"},
-    {"id": 3, "name": "Ronald Sherman"}
+    {"id": 1, "name": "Donna Harvey", "photo": "donna-harvey.jpg"},
+    {"id": 2, "name": "Angela Johnson", "photo": "angela-johnson.jpg"},
+    {"id": 3, "name": "Ronald Sherman", "photo": "ronald-sherman.jpg"}
   ]
 }
